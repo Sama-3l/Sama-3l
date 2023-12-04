@@ -36,3 +36,7 @@ Independently conceived, engineered, and launched a comprehensive full-stack app
 - 🖥️ https://sidmishra.webflow.io/
 - 🖼️ https://www.behance.net/raghvenmishra2
 - 💵 https://www.fiverr.com/sama3l
+
+## Github Stats
+
+![Sama-3l's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sama-3l&show_icons=true&theme=tokyonight)
