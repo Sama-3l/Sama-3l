@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Sama-3l/Sama-3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raghvendra Mishra, you can call me Siddhartha, a Flutter developer with a passion for UI/UX design and a curiosity that drives me to explore backend and deployement technologies. It helps me in understanding most aspects of building software, something that I am really fond of doing. I love expanding my knowledge across diverse domains, from machine learning and AI to creating servers in Go and Node.js. My journey involves delving into various programming languages, and I thrive on the challenge of mastering new technologies.
 
-Here are some ideas to get you started:
+## Skills 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter, Dart
+- Python, Java, C/C++
+- JavaScript
+- Firebase
+- UI/UX Design, Figma
+- Go (Beginner)
+
+## Projects 💼
+
+### Coinwatcher
+
+Collaborating with a team of 5, I'm contributing to the development of a finances tracking and investment app.
+
+- Utilized Node.js with MongoDB for an efficient and scalable server system.
+- Achieved a 100% cutback on initial deployment costs by leveraging Railway for hosting.
+- Implemented an AI model that recommends small-cap stocks for users' daily savings investments, trained on 5 years of data from 50-60 companies.
+
+### Chronos
+
+Independently conceived, engineered, and launched a comprehensive full-stack app on the Play Store.
+
+- Enables users to schedule reminders for events with flexible yet crucial timelines on a weekly basis.
+- Conducted usability testing with a group of 30 beta users, receiving overwhelmingly positive feedback on the intuitive design and user-friendly interface.
+
+## Let's Connect! 🌐
+
+- 📧 raghvendramishra2002@gmail.com
+- 🖥️ https://sidmishra.webflow.io/
+- 🖼️ https://www.behance.net/raghvenmishra2
+- 💵 https://www.fiverr.com/sama3l
