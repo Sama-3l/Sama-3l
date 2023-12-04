@@ -1,8 +1,8 @@
 # About Me! 🙋‍♂️
 
-I'm Raghvendra Mishra, you can call me Siddhartha, a Flutter developer with a passion for UI/UX design and a curiosity that drives me to explore backend and deployement technologies. It helps me in understanding most aspects of building software, something that I am really fond of doing. I love expanding my knowledge across diverse domains, from machine learning and AI to creating servers in Go and Node.js. My journey involves delving into various programming languages, and I thrive on the challenge of mastering new technologies.
-
 ![Banner Image](https://github.com/Sama-3l/Sama-3l/blob/main/ld_banner_1.png)
+
+I'm Raghvendra Mishra, you can call me Siddhartha, a Flutter developer with a passion for UI/UX design and a curiosity that drives me to explore backend and deployement technologies. It helps me in understanding most aspects of building software, something that I am really fond of doing. I love expanding my knowledge across diverse domains, from machine learning and AI to creating servers in Go and Node.js. My journey involves delving into various programming languages, and I thrive on the challenge of mastering new technologies.
 
 ## Skills 🚀
 
