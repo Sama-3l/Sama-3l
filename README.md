@@ -8,12 +8,20 @@ I'm Raghvendra Mishra, you can call me Siddhartha, a Flutter developer with a pa
 
 - Flutter, Dart
 - Python, Java, C/C++
-- JavaScript
+- JavaScript, Node.js
 - Firebase
 - UI/UX Design, Figma
 - Go (Beginner)
 
 ## Projects 💼
+
+## Bharatrail
+
+Welcome to Bharatrail, your innovative solution for hassle-free train ticket purchases.
+
+- **Minimal Design:** With an eye for design, I worked on crafting a minimal but unique UI experience.
+- **Coach Selection:** Along with being able to select seats, user can also select coach.
+- **Crowd Visualization:** The app helps you get an idea of how crowded your surrounding might be on a particular train.
 
 ### Coinwatcher
 
