@@ -17,7 +17,7 @@ I'm Raghvendra Mishra, you can call me Siddhartha, a Flutter developer with a pa
 
 ## Bharatrail
 
-Welcome to Bharatrail, your innovative solution for hassle-free train ticket purchases.
+Redesigned and developed a full-stack railway tickets booking application with Flutter frontend and Golang backend.
 
 - **Minimal Design:** With an eye for design, I worked on crafting a minimal but unique UI experience.
 - **Coach Selection:** Along with being able to select seats, user can also select coach.
