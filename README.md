@@ -15,7 +15,7 @@ I'm Raghvendra Mishra, you can call me Siddhartha, a Flutter developer with a pa
 
 ## Projects 💼
 
-## Bharatrail
+### Bharatrail
 
 Redesigned and developed a full-stack railway tickets booking application with Flutter frontend and Golang backend.
 
