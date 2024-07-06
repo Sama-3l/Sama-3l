@@ -13,7 +13,24 @@ I'm Raghvendra Mishra, you can call me Siddhartha, a Flutter developer with a pa
 - UI/UX Design, Figma
 - Go (Beginner)
 
-## Projects 💼
+## Projects & Work Experience 💼
+
+### IssueCop - (Intern) [📲](https://play.google.com/store/apps/details?id=com.issuecop.app&pcampaignid=web_share)
+
+Led a small team of interns to implement multiple chat and application features 
+
+- **Intern Management:** Appointed a team lead, I had to manage the project with 2 backend and 2 Flutter frontend engineer interns.
+- **Chat features implementation:** Implement multiple chat features in a early stage mobile application.
+- **Bugs fixing** Issued production bugs fixes on a day-to-day basis
+
+
+### Faekbank - (Freelance) [🌐](https://faekbank.com/) [📲](https://play.google.com/store/apps/details?id=com.samael.faekbank&pcampaignid=web_share)
+
+Faciliated multiple feature implementations and bug fixing in their finances management application.
+
+- **OneSignal integration:** OneSignal integrations completed with the app to allow for push notifications
+- **Data model infrastructure** Re-designed their data schemas to better fit the apps needs
+- **Firebase issues and App publishing:** Fixed Firebase auth issues and helped publish the app tp Play Store successfully.
 
 ### Bharatrail
 
@@ -41,9 +58,9 @@ Independently conceived, engineered, and launched a comprehensive full-stack app
 ## Let's Connect! 🌐
 
 - 📧 raghvendramishra2002@gmail.com
-- 🖥️ https://sidmishra.webflow.io/
-- 🖼️ https://www.behance.net/raghvenmishra2
-- 💵 https://www.fiverr.com/sama3l
+- 🖥️ [https://sidmishra.webflow.io/](https://sidmishra.webflow.io/)
+- 🖼️ [https://www.behance.net/raghvenmishra2](https://www.behance.net/raghvenmishra2)
+- 💵 [https://www.fiverr.com/sama3l](https://www.fiverr.com/sama3l)
 
 ## Github Stats
 
