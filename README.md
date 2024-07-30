@@ -48,7 +48,7 @@ Collaborating with a team of 5, I'm contributing to the development of a finance
 - Achieved a 100% cutback on initial deployment costs by leveraging Railway for hosting.
 - Implemented an AI model that recommends small-cap stocks for users' daily savings investments, trained on 5 years of data from 50-60 companies.
 
-### Chronos [📲](https://play.google.com/store/apps/details?id=com.issuecop.app&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.sidmishra.chronos)
+### Chronos [📲](https://play.google.com/store/apps/details?id=com.sidmishra.chronos)
 
 Independently conceived, engineered, and launched a comprehensive full-stack app on the Play Store.
 
