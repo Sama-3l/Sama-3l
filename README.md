@@ -23,14 +23,6 @@ Led a small team of interns to implement multiple chat and application features
 - **Chat features implementation:** Implement multiple chat features in a early stage mobile application.
 - **Bugs fixing** Issued production bugs fixes on a day-to-day basis
 
-### PlatefulAI [📲](https://play.google.com/store/apps/details?id=com.samael.platefulai)
-
-Designed and developed a full-stack Flutter recipe sharing social media application with ChatGPT integration. 
-
-- Designed and developed a beautiful user interface using Flutter for front-end
-- Set up a Node.js and MongoDB backend
-- Added LLM integration through ChatGPT-API to allows users to better optimize or search for recipes
-
 ### Faekbank - (Freelance) [🌐](https://faekbank.com/) [📲](https://play.google.com/store/apps/details?id=com.samael.faekbank&pcampaignid=web_share)
 
 Faciliated multiple feature implementations and bug fixing in their finances management application.
@@ -38,6 +30,14 @@ Faciliated multiple feature implementations and bug fixing in their finances man
 - **OneSignal integration:** OneSignal integrations completed with the app to allow for push notifications
 - **Data model infrastructure** Re-designed their data schemas to better fit the apps needs
 - **Firebase issues and App publishing:** Fixed Firebase auth issues and helped publish the app tp Play Store successfully.
+
+### PlatefulAI [📲](https://play.google.com/store/apps/details?id=com.samael.platefulai)
+
+Designed and developed a full-stack Flutter recipe sharing social media application with ChatGPT integration. 
+
+- Designed and developed a beautiful user interface using Flutter for front-end
+- Set up a Node.js and MongoDB backend
+- Added LLM integration through ChatGPT-API to allows users to better optimize or search for recipes
 
 ### Bharatrail
 
