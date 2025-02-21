@@ -66,8 +66,9 @@ Independently conceived, engineered, and launched a comprehensive full-stack app
 
 - 📧 raghvendramishra2002@gmail.com
 - 🖥️ [https://sidmishra.webflow.io/](https://sidmishra.webflow.io/)
-- 🖼️ [https://www.behance.net/raghvenmishra2](https://www.behance.net/raghvenmishra2)
-- 💵 [https://www.fiverr.com/sama3l](https://www.fiverr.com/sama3l)
+- 🌐 [https://www.linkedin.com/in/raghvendra-mishra-6b7321227/](https://www.linkedin.com/in/raghvendra-mishra-6b7321227/)
+- 💼 [https://www.instagram.com/sama3.l/](https://www.instagram.com/sama3.l/)
+- 🗒️ [https://medium.com/@sama3l](https://medium.com/@sama3l)
 
 ## Github Stats
 
